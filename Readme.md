@@ -43,16 +43,16 @@ No centralized coordinator is used.
 ## Results
 
 ### Swarm Exploration
-![Swarm Exploration](images/lidar.png)
+![Swarm Exploration](Images/lidar.png)
 
 ### Coverage Over Time
-![Coverage Plot](images/coverage.png)
+![Coverage Plot](Images/coverage.png)
 
 ### Connectivity Maintenance
-![Connectivity Plot](images/algebraic connectivity.png)
+![Connectivity Plot](Images/algebraic_connectivity.png)
 
 ### Collision over time
-![Map Fusion](images/collision.png)
+![Map Fusion](Images/collision.png)
 
 ---
 
