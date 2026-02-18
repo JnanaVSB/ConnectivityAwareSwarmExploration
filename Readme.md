@@ -56,5 +56,5 @@ No centralized coordinator is used.
 
 ---
 
-## Repository Structure
+
 
